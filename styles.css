@@ -1,0 +1,69 @@
+.lyrics {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Rockwell", serif;
+}
+
+.header {
+  background-color: #ad9fb4; //purple
+  display: flex;
+  width: 90%;
+  padding: 5%;
+  justify-content: center;
+  text-align: center;
+  font-family: "Rockwell", serif;
+  font-size: 150%;
+}
+
+.enter {
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  display: flex;
+}
+
+.centerError {
+  text-align: center;
+}
+
+legend {
+  font-weight: bold;
+}
+
+.title {
+  text-align: center;
+  padding: 10%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  background-color: #111111; //black
+  color: #fff;
+  width: 100%;
+  height: 100%;
+}
+
+.footer {
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-decoration: none;
+}
+
+.footer a {
+  color: #fff;
+}
+
+p {
+  text-align: center;
+  white-space: pre-line;
+}
